@@ -1,17 +1,7 @@
 # chillrpg
-   ***********************************************************
-   *                                                         *
-   *                                                         *
-   *                  Chill's RPG Engine                     *
-   *                                                         *
-   *                                                         * 
-   *                  Version alpha 0.6                      *
-   *                                                         *
-   *                                                         *
-   *                                                         *
-   *                                                         *
-   *                                                         *
-   ***********************************************************
+                     Chill's RPG Engine                     
+                     Version alpha 0.6                      
+ 
     
     
     *** AS OF VERSION 0.6 CLINT IS REQUIRED ***
